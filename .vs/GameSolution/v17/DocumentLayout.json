@@ -11,16 +11,24 @@
       "RelativeMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|solutionrelative:Game\\Source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|S:\\Alolyy\\Game\\Source\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|solutionrelative:Game\\Source\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|S:\\Alolyy\\Game\\Source\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|solutionrelative:Game\\Source\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|S:\\Alolyy\\Game\\Source\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|solutionrelative:Game\\Source\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D8576A6-2EFC-43FB-901A-1BB6E736EC44}|Framework\\Framework.vcxproj|S:\\Alolyy\\Framework\\Source\\Math\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D8576A6-2EFC-43FB-901A-1BB6E736EC44}|Framework\\Framework.vcxproj|solutionrelative:Framework\\Source\\Math\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|S:\\Alolyy\\Game\\Source\\Pathfinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|solutionrelative:Game\\Source\\Pathfinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|S:\\Alolyy\\Game\\Source\\Pathfinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB547AFA-57C0-41A2-82B2-BB03B5F9FED9}|Game\\Game.vcxproj|solutionrelative:Game\\Source\\Pathfinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,6 +78,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pathfinder.cpp",
+              "DocumentMoniker": "S:\\Alolyy\\Game\\Source\\Pathfinder.cpp",
+              "RelativeDocumentMoniker": "Game\\Source\\Pathfinder.cpp",
+              "ToolTip": "S:\\Alolyy\\Game\\Source\\Pathfinder.cpp",
+              "RelativeToolTip": "Game\\Source\\Pathfinder.cpp",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAHsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T07:35:55.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pathfinder.h",
+              "DocumentMoniker": "S:\\Alolyy\\Game\\Source\\Pathfinder.h",
+              "RelativeDocumentMoniker": "Game\\Source\\Pathfinder.h",
+              "ToolTip": "S:\\Alolyy\\Game\\Source\\Pathfinder.h",
+              "RelativeToolTip": "Game\\Source\\Pathfinder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T07:35:52.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "vector.h",
               "DocumentMoniker": "S:\\Alolyy\\Framework\\Source\\Math\\vector.h",
@@ -83,26 +117,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Enemy.h",
               "DocumentMoniker": "S:\\Alolyy\\Game\\Source\\Enemy.h",
               "RelativeDocumentMoniker": "Game\\Source\\Enemy.h",
               "ToolTip": "S:\\Alolyy\\Game\\Source\\Enemy.h",
               "RelativeToolTip": "Game\\Source\\Enemy.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-07T06:30:33.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "S:\\Alolyy\\Game\\Source\\Enemy.cpp",
               "RelativeDocumentMoniker": "Game\\Source\\Enemy.cpp",
               "ToolTip": "S:\\Alolyy\\Game\\Source\\Enemy.cpp",
               "RelativeToolTip": "Game\\Source\\Enemy.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-07T06:31:13.91Z",
               "EditorCaption": ""
@@ -115,7 +149,7 @@
               "RelativeDocumentMoniker": "Game\\Source\\Game.h",
               "ToolTip": "S:\\Alolyy\\Game\\Source\\Game.h",
               "RelativeToolTip": "Game\\Source\\Game.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-07T06:29:07.104Z",
               "EditorCaption": ""
@@ -128,7 +162,7 @@
               "RelativeDocumentMoniker": "Game\\Source\\Game.cpp",
               "ToolTip": "S:\\Alolyy\\Game\\Source\\Game.cpp",
               "RelativeToolTip": "Game\\Source\\Game.cpp",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACoAAAAeAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCAAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-07T06:29:07.495Z",
               "EditorCaption": ""
