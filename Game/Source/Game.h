@@ -1,8 +1,10 @@
 #pragma once
 #include "Framework.h"
+#include "Enemy.h"
 
 class Camera;
 class Tilemap;
+class Enemy;
 
 class Game : public fw::GameCore
 {
@@ -25,4 +27,8 @@ public:
     fw::Texture* m_pTextures[7];
 
     Tilemap* m_pTilemap;
+
+    fw::Texture* m_pEnemyTexture = nullptr; // Texture for enemy sprites
+    std::vector<Enemy*> m_Enemies; // Vector to store enemy objects
+
 };

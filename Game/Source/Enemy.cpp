@@ -9,7 +9,9 @@ Enemy::Enemy(Game* pGame, fw::Mesh* pMesh, fw::ShaderProgram* pShader, Pathfinde
   m_speed(2.5f),
   m_currentWaypointIndex(0),
   m_pPathfinder(pPathfinder),
-  m_position(position)
+  m_position(position),
+  m_pMesh(pMesh),
+  m_pShader(pShader)
 {
 }
 
@@ -51,6 +53,11 @@ void Enemy::update(float deltaTime)
 
 void Enemy::draw()
 {
+    if (!m_IsAlive)
+        return;
+
+    // Draw the enemy sprite at its position.
+    m_pMesh->draw(m_pShader, m_position, m_pTexture);
 }
 
 void Enemy::GetPath()

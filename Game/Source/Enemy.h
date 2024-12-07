@@ -6,7 +6,9 @@ using fw::vec2;
 
 class Game;
 class Pathfinder;
-
+class Texture;
+class Mesh;
+class ShaderProgram;
 
 class Enemy
 {
@@ -24,11 +26,14 @@ public:
     int m_currentWaypointIndex = 0;
     bool m_IsAlive;
 
-protected:
 
     Game* m_pGame = nullptr;
 
     fw::Texture* m_pTexture = nullptr;
+    fw::Mesh* m_pMesh = nullptr;
+    fw::ShaderProgram* m_pShader = nullptr;
+
+
     fw::vec2 m_uvOffset = { 0.0f, 0.0f };
     fw::vec2 m_uvScale = { 1.0f, 1.0f };
 
