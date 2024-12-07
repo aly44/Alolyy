@@ -1,13 +1,4 @@
-﻿  FWCore.cpp
-  FWWindows.cpp
-  GameCore.cpp
-  GLExtensions.cpp
-  MyGLContext.cpp
-  WGLExtensions.cpp
-  Mesh.cpp
+﻿  Mesh.cpp
   GameObject.cpp
-  ShaderProgram.cpp
-  Texture.cpp
-  Utility.cpp
   Generating Code...
   Framework.vcxproj -> S:\Alolyy\build\Framework-x64-Debug\Framework.lib

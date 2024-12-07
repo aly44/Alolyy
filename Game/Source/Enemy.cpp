@@ -2,6 +2,7 @@
 #include "Enemy.h"
 #include "Game.h"
 #include "Pathfinder.h"
+#include <iostream>
 
 
 Enemy::Enemy(Game* pGame, fw::Mesh* pMesh, fw::ShaderProgram* pShader, Pathfinder* pPathfinder, fw::vec2 position)
